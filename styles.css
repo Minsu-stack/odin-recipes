@@ -1,3 +1,15 @@
-.h1 {
-    color: rgb(0, 0, 255);
+h1 {
+    color: rgb(0, 255, 0);
+}
+
+.pasta {
+    color: red;
+}
+
+.burger {
+    color: pink;
+}
+
+.lasagna {
+    color: orange;
 }
